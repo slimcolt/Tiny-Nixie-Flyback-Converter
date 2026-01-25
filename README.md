@@ -20,9 +20,13 @@ Technical specifications of the power supply:
 - Soft start
 
 # Simulating with SIMPLIS
+## Simulation model
+![Simplis](pictures/simplis_model.png)
+## Transient simulation ($U_i$ = 5 V @ full load)
+![Simplis](pictures/transient_simulation.png)
 ## Open loop Transfer function ($U_i$ = 5 V @ full load)
 ![Open_Loop_TF](pictures/open_loop_png.png)
 ## Closed loop Transfer function ($U_i$ = 5 V @ full load)
 ![Closed_Loop_TF](pictures/closed_loop_png.png)
 ## Closed loop Transfer function ($U_i$ = 5 V @ no load)
-![Closed_Loop_TF]()
+![Closed_Loop_TF_noload](pictures/closed_loop_no_load.png)
