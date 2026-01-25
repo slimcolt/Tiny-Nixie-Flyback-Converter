@@ -17,8 +17,12 @@ Technical specifications of the power supply:
 - Custom EFD-15 transformer
 - 100% DCM operation
 - Hiccup-mode overcurrent protection
-- soft start
+- Soft start
 
 # Simulating with SIMPLIS
 ## Open loop Transfer function ($U_i$ = 5 V @ full load)
-![Closed_Loop_TF](pictures/open_loop.jpg)
+![Open_Loop_TF](pictures/open_loop_png.png)
+## Closed loop Transfer function ($U_i$ = 5 V @ full load)
+![Closed_Loop_TF](pictures/closed_loop_png.png)
+## Closed loop Transfer function ($U_i$ = 5 V @ no load)
+![Closed_Loop_TF]()
