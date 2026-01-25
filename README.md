@@ -1,7 +1,20 @@
 # Tiny-Nixie-Flyback-Converter
 ### Galvanically isolated multi-output flyback converter, specifically designed for Nixie clocks to ensure safe operation.
 
-## Project Overview
+# Table of Contents
+- [Project Overview](#project-overview)
+- [Simulating with SIMPLIS](#simulating-with-simplis)
+  - [Simulation model](#simulation-model)
+  - [Transient simulation](#transient-simulation)
+  - [Open loop Transfer function)](#open-loop-transfer-function)
+  - [Closed loop Transfer function)](#closed-loop-transfer-function)
+  - [No-Load Closed loop Transfer function)](#no-load-closed-loop-transfer-function)
+
+- [Designed with Altium Designer](#designed-with-altium-designer)
+  - [Schematic](#schematic)
+  - [4-layer PCB](#4-layer-pcb)
+
+# Project Overview
 The power supply provides full galvanic isolation for the Nixie tubes and their control circuitry.
 Technical specifications of the power supply:
 - Input voltage range: 4.5 V – 13 V
@@ -19,18 +32,6 @@ Technical specifications of the power supply:
 - Hiccup-mode overcurrent protection
 - Soft start
 - UVLO
-
-# Table of Contents
-- [Simulating with SIMPLIS](#simulating-with-simplis)
-  - [Simulation model](#simulation-model)
-  - [Transient simulation](#transient-simulation)
-  - [Open loop Transfer function)](#open-loop-transfer-function)
-  - [Closed loop Transfer function)](#closed-loop-transfer-function)
-  - [No-Load Closed loop Transfer function)](#no-load-closed-loop-transfer-function)
-
-- [The circuit was designed in Altium Designer](#the-circuit-was-designed-in-altium-designer)
-  - [Schematic](#schematic)
-  - [4-layer PCB](#4-layer-pcb)
 
 # Simulating with SIMPLIS
 ## Simulation model
@@ -52,7 +53,7 @@ $U_i$ = 5 V @ no load
 
 ![Closed_Loop_TF_noload](pictures/closed_loop_no_load.png)
 
-# The circuit was designed in Altium Designer
+# Designed with Altium Designer
 ## Schematic
 ![schematic](pictures/schematic.png)
 ## 4-layer PCB
