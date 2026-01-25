@@ -21,3 +21,4 @@ Technical specifications of the power supply:
 
 # Simulating with SIMPLIS
 ## Open loop Transfer function ($U_i$ = 5 V @ full load)
+![Closed_Loop_TF](pictures/open_loop.jpg)
