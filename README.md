@@ -59,3 +59,16 @@ $U_i$ = 5 V @ no load
 ## 4-layer PCB
 ![pcb](pictures/pcb.png)
 
+# Custom Designed Transformer
+The power supply also includes a custom-designed flyback transformer on an EFD-15/8/5 core. The winding layers are arranged in a sandwich configuration. Key parameters:
+
+- $N_p$ / $N_{s1}$ = 7/56
+- $N_p$ / $N_{s2}$ = 7/3
+- $L_p$ = 2.483 uH
+- $L_{p.leak}$ = 43 nH
+- $L_{s1.leak}$ = 3.12 uH
+- $B_{max}$ < 0.1 T
+- $P_{loss}$ < 0.2 W
+
+
+
