@@ -9,10 +9,10 @@
   - [Open loop Transfer function)](#open-loop-transfer-function)
   - [Closed loop Transfer function)](#closed-loop-transfer-function)
   - [No-Load Closed loop Transfer function)](#no-load-closed-loop-transfer-function)
-
 - [Designed with Altium Designer](#designed-with-altium-designer)
   - [Schematic](#schematic)
   - [4-layer PCB](#4-layer-pcb)
+- [Custom Designed Transformer](#custom-designed-transformer)
 
 # Project Overview
 The power supply provides full galvanic isolation for the Nixie tubes and their control circuitry.
@@ -57,10 +57,13 @@ $U_i$ = 5 V @ no load
 ## Schematic
 ![schematic](pictures/schematic.png)
 ## 4-layer PCB
+PCB Size: 30 mm X 37 mm
+
 ![pcb](pictures/pcb.png)
 
 # Custom Designed Transformer
-The power supply also includes a custom-designed flyback transformer on an EFD-15/8/5 core. The winding layers are arranged in a sandwich configuration. Key parameters:
+The power supply also includes a custom-designed flyback transformer on an EFD-15/8/5 core. The winding layers are arranged in a sandwich configuration. 
+Key parameters:
 
 - $N_p$ / $N_{s1}$ = 7/56
 - $N_p$ / $N_{s2}$ = 7/3
@@ -70,5 +73,8 @@ The power supply also includes a custom-designed flyback transformer on an EFD-1
 - $B_{max}$ < 0.1 T
 - $P_{loss}$ < 0.2 W
 
+![Transformer](pictures/transformer.png)
 
+# Measurements
+Soon..
 
