@@ -18,6 +18,7 @@ Technical specifications of the power supply:
 - 100% DCM operation
 - Hiccup-mode overcurrent protection
 - Soft start
+- UVLO
 
 # Simulating with SIMPLIS
 ## Simulation model
@@ -30,3 +31,10 @@ Technical specifications of the power supply:
 ![Closed_Loop_TF](pictures/closed_loop_png.png)
 ## Closed loop Transfer function ($U_i$ = 5 V @ no load)
 ![Closed_Loop_TF_noload](pictures/closed_loop_no_load.png)
+
+# The circuit was designed in Altium Designer
+## Schematic
+![schematic](pictures/schematic.png)
+## 4-layer PCB
+![pcb](pictures/pcb.png)
+
