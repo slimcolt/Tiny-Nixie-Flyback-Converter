@@ -20,16 +20,36 @@ Technical specifications of the power supply:
 - Soft start
 - UVLO
 
+# Table of Contents
+- [Simulating with SIMPLIS](#simulating-with-simplis)
+  - [Simulation model](#simulation-model)
+  - [Transient simulation](#transient-simulation)
+  - [Open loop Transfer function)](#open-loop-transfer-function)
+  - [Closed loop Transfer function)](#closed-loop-transfer-function)
+  - [No-Load Closed loop Transfer function)](#no-load-closed-loop-transfer-function)
+
+- [The circuit was designed in Altium Designer](#the-circuit-was-designed-in-altium-designer)
+  - [Schematic](#schematic)
+  - [4-layer PCB](#4-layer-pcb)
+
 # Simulating with SIMPLIS
 ## Simulation model
 ![Simplis](pictures/simplis_model.png)
-## Transient simulation ($U_i$ = 5 V @ full load)
+## Transient simulation
+$U_i$ = 5 V @ full load
+
 ![Simplis](pictures/transient_simulation.png)
-## Open loop Transfer function ($U_i$ = 5 V @ full load)
+## Open loop Transfer function
+$U_i$ = 5 V @ full load
+
 ![Open_Loop_TF](pictures/open_loop_png.png)
-## Closed loop Transfer function ($U_i$ = 5 V @ full load)
+## Closed loop Transfer function
+$U_i$ = 5 V @ full load
+
 ![Closed_Loop_TF](pictures/closed_loop_png.png)
-## Closed loop Transfer function ($U_i$ = 5 V @ no load)
+## No-Load Closed loop Transfer function
+$U_i$ = 5 V @ no load
+
 ![Closed_Loop_TF_noload](pictures/closed_loop_no_load.png)
 
 # The circuit was designed in Altium Designer
