@@ -101,4 +101,10 @@ The diode snubber circuit must be tuned. To do this, I measured the ringing freq
 
 ![ringing](Measurements/Secunder_ringing_freq.png)
 
+## Step Load Measurement
+I also measured the step load response of the converter. 
+The pictures below shows the response when the load steps from 10 mA to 20 mA. No ringing is observed.
 
+![step1](Measurements/Step_load_meas1.png)
+
+![step1](Measurements/Step_load_meas2.png)
