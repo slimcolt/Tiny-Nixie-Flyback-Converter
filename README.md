@@ -13,6 +13,7 @@
   - [Schematic](#schematic)
   - [4-layer PCB](#4-layer-pcb)
 - [Custom Designed Transformer](#custom-designed-transformer)
+- [Assembled PCB](#Assembled-PCB)
 - [Measurements](#measurements)
   - [Startup Under Full Load Conditions](#Startup-Under-Full-Load-Conditions)
   - [MOSFET Gate Measurements](#MOSFET-gate-measurements)
