@@ -14,6 +14,7 @@
   - [4-layer PCB](#4-layer-pcb)
 - [Custom Designed Transformer](#custom-designed-transformer)
 - [Measurements](#measurements)
+  - [Startup Under Full Load](#Startup-Under-Full-Load-Conditions)
 
 # Project Overview
 The power supply provides full galvanic isolation for the Nixie tubes and their control circuitry.
