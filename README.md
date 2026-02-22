@@ -75,6 +75,21 @@ Key parameters:
 
 ![Transformer](pictures/transformer.png)
 
+
 # Assembled PCB
 ![Assembled_PCB](Assembled_PCB/pcb2.png)
+
+# Measurements
+## Startup Under Full Load Conditions
+![startup](Measurements/Tiny_startup.png)
+
+## MOSFET gate measurements
+The MOSFET gate waveform shows neither overshoot nor ringing. The gate resistor appears to be optimal.
+
+![gate](Measurements/Tiny_gate.png)
+
+## Sw node measurements (Mosfet drain measurements)
+The SW node shows minimal overshoot, with no ringing observed. The low-frequency oscillation is characteristic of DCM operation.
+
+![sw_node](Measurements/Tiny_drain.png)
 
