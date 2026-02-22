@@ -93,3 +93,12 @@ The SW node shows minimal overshoot at full load condition, with no ringing obse
 
 ![sw_node](Measurements/Tiny_drain2.png)
 
+## Secondary waveforms
+The secondary of the transformer exhibits some ringing when the primary MOSFET turns on. 
+The diode snubber circuit must be tuned. To do this, I measured the ringing frequency without the snubber, which was 18.52 MHz.
+
+![secondary](Measurements/secunder_ringing.png)
+
+![ringing](Measurements/Secunder_ringing_freq.png)
+
+
