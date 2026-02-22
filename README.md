@@ -107,4 +107,15 @@ The pictures below shows the response when the load steps from 10 mA to 20 mA. N
 
 ![step1](Measurements/Step_load_meas1.png)
 
-![step1](Measurements/Step_load_meas2.png)
+![step2](Measurements/Step_load_meas2.png)
+
+## Output Ripple at full load
+The measured output ripple meets the design requirements.
+
+![ripple](Measurements/output_ripple.png)
+
+## Efficiency of the converter
+The figure below shows the efficiency of the converter at 5 V, 9 V, and 12 V input voltages.
+
+![eff](Measurements/Tiny_Nixie_Flyback_Effficiency.png)
+
