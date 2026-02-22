@@ -76,5 +76,5 @@ Key parameters:
 ![Transformer](pictures/transformer.png)
 
 # Assembled PCB
-![Assembled_PCB](assembled_pcb/pcb2.png)
+![Assembled_PCB](Assembled_PCB/pcb2.png)
 
