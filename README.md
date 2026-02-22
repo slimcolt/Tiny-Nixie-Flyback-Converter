@@ -75,6 +75,6 @@ Key parameters:
 
 ![Transformer](pictures/transformer.png)
 
-# Measurements
-Soon..
+# Assembled PCB
+![Assembled_PCB](assembled_pcb/pcb2.png)
 
