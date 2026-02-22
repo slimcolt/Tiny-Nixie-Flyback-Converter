@@ -16,6 +16,11 @@
 - [Measurements](#measurements)
   - [Startup Under Full Load Conditions](#Startup-Under-Full-Load-Conditions)
   - [MOSFET Gate Measurements](#MOSFET-gate-measurements)
+  - [SW Node Measurements](#SW-Node-measurements)
+  - [Secondary Waveforms](#Secondary-waveforms)
+  - [Step Load Measurement](#Step-Load-Measurement)
+  - [Output Ripple at Full Load](#Output-Ripple-at-full-load)
+  - [Efficiency of the converter](#Efficiency-of-the-converter)
 
 # Project Overview
 The power supply provides full galvanic isolation for the Nixie tubes and their control circuitry.
