@@ -88,8 +88,8 @@ The MOSFET gate waveform shows neither overshoot nor ringing. The gate resistor 
 
 ![gate](Measurements/Tiny_gate.png)
 
-## Sw node measurements (Mosfet drain measurements)
-The SW node shows minimal overshoot, with no ringing observed. The low-frequency oscillation is characteristic of DCM operation.
+## SW Node measurements (Mosfet drain measurements)
+The SW node shows minimal overshoot at full load condition, with no ringing observed. The low-frequency oscillation is characteristic of DCM operation.
 
-![sw_node](Measurements/Tiny_drain.png)
+![sw_node](Measurements/Tiny_drain2.png)
 
